@@ -25,6 +25,3 @@ role:
 	username - bnguyen1606@gmail.com
 	password - 123456
 
-
-Link to AWS instance for testing: https://ec2-18-191-86-176.us-east-2.compute.amazonaws.com/sidejob/
-Link will die on January 1st, 2022
